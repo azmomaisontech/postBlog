@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "New User",
+      "author": "Azmo Tech",
+      "article": "Thank for you using this app. Please do leave a comment or like on github",
+      "id": 1
+    }
+  ],
+  "authors": [
+    {
+      "firstName": "Azmo",
+      "lastName": "Tech",
+      "id": 1
+    }
+  ]
+}
